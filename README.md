@@ -4,7 +4,16 @@
 <img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
-O projeto "Equações do 1º Grau" oferece uma ferramenta para calcular a solução de equações lineares de primeiro grau da forma ax + b = 0. 
+Este projeto consiste em uma calculadora de equações do primeiro grau que permite aos usuários encontrar a solução para uma equação do tipo ax + b = 0. Aqui estão as principais funcionalidades implementadas:
+
+1. Inserir Coeficientes:
+   - Os usuários podem inserir os coeficientes "a" e "b" da equação nos campos correspondentes.
+
+2. Calcular:
+   - Ao clicar no botão "CALCULAR", o sistema calculará a solução da equação e exibirá o resultado abaixo.
+
+3. Limpar Campos:
+   - O botão "LIMPAR" permite que os usuários limpem os campos de entrada e o resultado calculado, facilitando a inserção de novos coeficientes.
 
 ## COMO USAR?
 ### BAIXANDO O PROJETO:
